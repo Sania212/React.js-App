@@ -1,4 +1,4 @@
-console.log('React Dogs is up and running after cats!');
+console.log('React Dogs are up and running after cats!');
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Router, useRouterHistory } from 'react-router';
